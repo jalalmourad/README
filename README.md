@@ -6,7 +6,7 @@ Computer Systems Software Engineering Student at Carleton University
 ⚱️ Set yer sights on me treasure trove of creations here, Arrr...
 
 Network
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sami-mnif-64346b178/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jalal-mourad/)
 
 Skills
 |  |  |
